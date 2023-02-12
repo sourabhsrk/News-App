@@ -1,0 +1,79 @@
+{
+  "status": "ok",
+  "totalResults": 7,
+  "articles": [
+    {
+      "source": { "id": "google-news-fr", "name": "Google News (France)" },
+      "author": "Caroline J.",
+      "title": "Grève à la SNCF ce mardi 31 janvier : les prévisions de trafic dans le RER et sur le Transilien",
+      "description": "Nouvelle et seconde journée de grève et de manifestations interprofessionnelles contre la réforme des retraites ce mardi 31 janvier 2023. Une fois encore, les perturbations s’annoncent nombreuses à la SNCF. Alors, à quoi faut-il s’attendre dans les transports…",
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMinQFodHRwczovL3d3dy5zb3J0aXJhcGFyaXMuY29tL2FjdHVhbGl0ZXMvYS1wYXJpcy9hcnRpY2xlcy8yODc5OTYtZ3JldmUtYS1sYS1zbmNmLWNlLW1hcmRpLTMxLWphbnZpZXItbGVzLXByZXZpc2lvbnMtZGUtdHJhZmljLWRhbnMtbGUtcmVyLWV0LXN1ci1sZS10cmFuc2lsaWVu0gEA?oc=5",
+      "urlToImage": "https://cdn.sortiraparis.com/images/80/1665/828301-greve-sncf-ce-mercredi-des-perturbations-prevues-sur-plusieurs-lignes-du-rer-et-du-transilien.jpg",
+      "publishedAt": "2023-01-30T11:54:05+00:00",
+      "content": "Lajournée de grève et de manifestations interprofessionnelles prévue ce mardi 31 janvier 2023 mobilisera-t-elle autant, voire encore plus, que celle du 19 janvier dernier ? Pour l’heure, personne ne … [+6210 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "David PurdumESPN Staff Writer ",
+      "title": "Eagles emerge as 1.5-point favorite over Chiefs in Super Bowl LVII",
+      "description": "Caesars Sportsbook and others opened the line on Super Bowl LVII at pick 'em Sunday night before the Eagles emerged as 1.5-point favorites over the Chiefs within 30 minutes of the line posting.",
+      "url": "http://espn.go.com/chalk/story/_/id/35555411/eagles-emerge-15-point-favorite-chiefs-super-bowl-lvii",
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0130%2Fr1124290_1296x729_16%2D9.jpg",
+      "publishedAt": "2023-01-30T03:52:00Z",
+      "content": "Oddsmakers initially made Super Bowl LVII a toss-up, but the Philadelphia Eagles emerged as the betting favorites over the Kansas City Chiefs on Sunday.\r\nCaesars Sportsbook and other bookmakers opene… [+2163 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "&#x27;The Voncast&#x27; with Myles Garrett",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/304730-the-voncast-with-myles-garrett",
+      "urlToImage": null,
+      "publishedAt": "2022-12-01T18:52:49.4768049Z",
+      "content": "Myles Garrett and Von Miller talk playing in the NBA, pick their dream NFL defense and more"
+    },
+    {
+      "source": { "id": "national-review", "name": "National Review" },
+      "author": "Caroline Downey",
+      "title": "Man Wins Elite Women’s Race at International Cyclocross Tournament",
+      "description": "Killips has an online blog, Estro Junkie, which he calls ‘a newsletter about the intersection of sports and queer theory.’",
+      "url": "https://www.nationalreview.com/news/man-wins-elite-womens-race-at-international-cyclocross-tournament/",
+      "urlToImage": "https://www.nationalreview.com/wp-content/uploads/2022/10/transgender-flag.jpg?fit=2057%2C1200",
+      "publishedAt": "2022-11-15T02:37:29Z",
+      "content": null
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "☄️ NEW ANIME JUST DROPPED ☄️",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/289173-ja-vs-zion-anime",
+      "urlToImage": null,
+      "publishedAt": "2022-11-14T22:07:16.2323649Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "The Washington Times https://www.washingtontimes.com",
+      "title": "Latest Quizzes",
+      "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+      "url": "https://www.washingtontimes.com/quiz/",
+      "urlToImage": null,
+      "publishedAt": "2022-08-30T16:37:43.8583104Z",
+      "content": "Featured Quizzes\r\nTake the challenge to learn about the life and career highlights of famed nonagenarian actress and comedian Betty White.\r\n Shares \r\nRead our synopsis and correctly identify a litera… [+32510 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": null,
+      "title": "Daily Briefing",
+      "description": "The day's top stories, from sports to movies to politics to world events.",
+      "url": "https://profile.usatoday.com/newsletters/daily-briefing/",
+      "urlToImage": "https://profile.usatoday.com/newsletters/resources/usat/property/usatoday/newsletter-thumbs/8872UT-E-NLETTER02@2x.jpg",
+      "publishedAt": "2021-08-15T15:35:07+00:00",
+      "content": "The day's top stories, from sports to movies to politics to world events."
+    }
+  ]
+}
