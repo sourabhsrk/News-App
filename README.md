@@ -14,3 +14,7 @@ This application is very common and average level application. I built this to a
 - Infinite Scroll
 - Top loading bar
 - Fetch URL concept : fetching news from free News API
+
+## IMP NOTE
+
+I have built this application in both class based component and function based component. If anyone interested for class based component code they can found the code in my previous commits.
