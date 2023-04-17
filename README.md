@@ -18,3 +18,5 @@ This application is very common and average level application. I built this to a
 ## IMP NOTE
 
 I have built this application in both class based component and function based component. If anyone interested for class based component code they can found the code in my previous commits.
+
+## Screenshot![Newsapp](https://user-images.githubusercontent.com/47951316/232627540-2f3c3b89-4033-4fe1-b711-f66539329f0c.png)
